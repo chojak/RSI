@@ -18,15 +18,12 @@ public class Server {
             System.setProperty("java.rmi.server.hostname", host);
             System.out.println(host);
 
-//            System.setProperty("java.rmi.server.codebase","file:target/classes");
-//            System.out.println("Codebase: " + System.getProperty("java.rmi.server.codebase"));
-
-            ServerList obj1 = new ServerList();
+            ServerChat obj1 = new ServerChat();
 
             LocateRegistry.createRegistry(1099);
-            Naming.rebind("calculatorRegistry", obj1);
+            Naming.rebind("//localhost/chatRMI", obj1);
 
-            System.out.println("Serwer oczekuje ...");
+            System.out.println("Server started");
         } catch (RemoteException | MalformedURLException e) {
             e.printStackTrace();
         }

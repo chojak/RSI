@@ -15,19 +15,28 @@ public class Client {
             System.setSecurityManager(new SecurityManager());
         }
 
-        Remote lookup = Naming.lookup("//192.168.0.106:1099/calculatorRegistry");
-        ServerListInterface myServer = (ServerListInterface) lookup;
+        Remote lookup = Naming.lookup("//localhost/chatRMI");
+        ServerChatInterface myServer = (ServerChatInterface) lookup;
+
         Scanner scanner = new Scanner(System.in);
 
-        while (true) {
-            System.out.println();
-            System.out.print("Podaj równanie: ");
-            String request = scanner.nextLine();
-            String response = myServer.doMath(request);
-            System.out.print("Wynik: " + response);
+        System.out.print("Enter your name: ");
+        String name = scanner.nextLine();
+        System.out.println("Connecting...");
+        ChatUser currentUser = new ChatUser(name);
+//        myServer.checkConnection();
+        myServer.connect(currentUser);
 
-            if (request == "exit")
-                break;
+        while (true) {
+//            System.out.print(MessageFormat.format("[{0}]: ", currentUser.getName()));
+            String message = scanner.nextLine();
+//            System.out.print("\r");
+            if (message.equals("exit")) {
+                System.out.println(myServer.disconnect(currentUser));
+                System.exit(0);
+            } else {
+                myServer.sendMessage(currentUser, message);
+            }
         }
     }
 }
