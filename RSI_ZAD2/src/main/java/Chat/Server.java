@@ -23,7 +23,7 @@ public class Server {
             LocateRegistry.createRegistry(1099);
             Naming.rebind("//localhost/chatRMI", obj1);
 
-            System.out.println("Serwer oczekuje ...");
+            System.out.println("Server started");
         } catch (RemoteException | MalformedURLException e) {
             e.printStackTrace();
         }
