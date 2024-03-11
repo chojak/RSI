@@ -18,37 +18,21 @@ public class Client {
         }
 
 //        Remote lookup = Naming.lookup("//192.168.0.106:1099/calculatorRegistry");
-        Remote lookup = Naming.lookup("//localhost/peopleList");
-        ServerListInterface myServer = (ServerListInterface) lookup;
+        Remote lookup = Naming.lookup("//localhost/chatRMI");
+        ServerChatInterface myServer = (ServerChatInterface) lookup;
+
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("PeopleList: ");
+        System.out.print("Enter your name: ");
+        String name = scanner.nextLine();
+        System.out.println("Connecting...");
+        ChatUser currentUser = new ChatUser(name);
+        myServer.checkConnection();
+        System.out.println(myServer.connect(currentUser));
+
         while (true) {
-            System.out.println();
-            System.out.println("Choose option: 0 - get all people, 1 - get person");
-            String option = scanner.nextLine();
-            String response = "";
-            switch (option) {
-                case "0":
-                    Collection<Person> allPeople = myServer.getAll();
-                    StringBuilder sb = new StringBuilder();
-                    for (Person prsn : allPeople) {
-                        sb.append(MessageFormat.format("{0} age: {1}\n", prsn.name, prsn.age));
-                    }
-                    System.out.print(sb);
-                    break;
-                case "1":
-                    System.out.print("Enter person name: ");
-                    String requestName = scanner.nextLine();
-                    Person foundPerson = myServer.getPerson(requestName);
-                    System.out.print(MessageFormat.format("{0} {1}, wiek: {2}\n", foundPerson.name, foundPerson.surname, foundPerson.age));
-                    break;
-                case "exit":
-                    break;
-                default:
-                    System.out.print("Unhandled option.");
-                    break;
-            }
+            String message = scanner.nextLine();
+            myServer.sendMessage(currentUser, message);
         }
     }
 }

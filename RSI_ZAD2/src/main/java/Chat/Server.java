@@ -14,17 +14,14 @@ public class Server {
                 System.setSecurityManager(new SecurityManager());
             }
 
-//            String host = getMachineAddress();
-//            System.setProperty("java.rmi.server.hostname", host);
-//            System.out.println(host);
+            String host = getMachineAddress();
+            System.setProperty("java.rmi.server.hostname", host);
+            System.out.println(host);
 
-//            System.setProperty("java.rmi.server.codebase","file:target/classes");
-//            System.out.println("Codebase: " + System.getProperty("java.rmi.server.codebase"));
-
-            ServerListImplementation obj1 = new ServerListImplementation();
+            ServerChat obj1 = new ServerChat();
 
             LocateRegistry.createRegistry(1099);
-            Naming.rebind("//localhost/peopleList", obj1);
+            Naming.rebind("//localhost/chatRMI", obj1);
 
             System.out.println("Serwer oczekuje ...");
         } catch (RemoteException | MalformedURLException e) {
