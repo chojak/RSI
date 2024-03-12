@@ -15,28 +15,18 @@ public class Client {
             System.setSecurityManager(new SecurityManager());
         }
 
-        Remote lookup = Naming.lookup("//localhost/chatRMI");
-        ServerChatInterface myServer = (ServerChatInterface) lookup;
+        Remote lookup = Naming.lookup("//localhost/TicTacToe");
+        ServerGameInterface myServer = (ServerGameInterface) lookup;
 
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
         System.out.println("Connecting...");
-        ChatUser currentUser = new ChatUser(name);
+        ClientPlayer currentPlayer = new ClientPlayer(name);
 //        myServer.checkConnection();
-        myServer.connect(currentUser);
+        System.out.println(myServer.connect(currentPlayer));
 
-        while (true) {
-//            System.out.print(MessageFormat.format("[{0}]: ", currentUser.getName()));
-            String message = scanner.nextLine();
-//            System.out.print("\r");
-            if (message.equals("exit")) {
-                System.out.println(myServer.disconnect(currentUser));
-                System.exit(0);
-            } else {
-                myServer.sendMessage(currentUser, message);
-            }
-        }
+        while (true) { }
     }
 }

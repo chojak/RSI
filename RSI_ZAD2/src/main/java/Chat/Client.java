@@ -5,8 +5,6 @@ import java.rmi.Naming;
 import java.rmi.NotBoundException;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
-import java.text.MessageFormat;
-import java.util.Collection;
 import java.util.Scanner;
 
 
@@ -18,14 +16,14 @@ public class Client {
         }
 
         Remote lookup = Naming.lookup("//localhost/chatRMI");
-        ServerChatInterface myServer = (ServerChatInterface) lookup;
+        IServerChat myServer = (IServerChat) lookup;
 
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
         System.out.println("Connecting...");
-        ChatUser currentUser = new ChatUser(name);
+        ClientChatUser currentUser = new ClientChatUser(name);
 //        myServer.checkConnection();
         myServer.connect(currentUser);
 

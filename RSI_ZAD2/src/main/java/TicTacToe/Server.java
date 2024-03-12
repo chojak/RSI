@@ -18,10 +18,10 @@ public class Server {
             System.setProperty("java.rmi.server.hostname", host);
             System.out.println(host);
 
-            ServerChat obj1 = new ServerChat();
+            ServerGame obj1 = new ServerGame();
 
             LocateRegistry.createRegistry(1099);
-            Naming.rebind("//localhost/chatRMI", obj1);
+            Naming.rebind("//localhost/TicTacToe", obj1);
 
             System.out.println("Server started");
         } catch (RemoteException | MalformedURLException e) {

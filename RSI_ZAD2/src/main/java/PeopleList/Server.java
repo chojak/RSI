@@ -21,7 +21,7 @@ public class Server {
 //            System.setProperty("java.rmi.server.codebase","file:target/classes");
 //            System.out.println("Codebase: " + System.getProperty("java.rmi.server.codebase"));
 
-            ServerListImplementation obj1 = new ServerListImplementation();
+            ServerPeopleList obj1 = new ServerPeopleList();
 
             LocateRegistry.createRegistry(1099);
             Naming.rebind("//localhost/peopleList", obj1);
