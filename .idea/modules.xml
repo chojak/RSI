@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RSI.iml" filepath="$PROJECT_DIR$/.idea/RSI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSI_ZAD1/RSI_ZAD1.iml" filepath="$PROJECT_DIR$/RSI_ZAD1/RSI_ZAD1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSI_ZAD2/RSI_ZAD2.iml" filepath="$PROJECT_DIR$/RSI_ZAD2/RSI_ZAD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSI_ZAD3/RSI_ZAD3.iml" filepath="$PROJECT_DIR$/RSI_ZAD3/RSI_ZAD3.iml" />
+    </modules>
+  </component>
+</project>

@@ -7,7 +7,6 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.util.Scanner;
 
-
 public class Client {
     public static void main(String[] args) throws MalformedURLException, NotBoundException, RemoteException {
         System.setProperty("java.security.policy", "security.policy");
