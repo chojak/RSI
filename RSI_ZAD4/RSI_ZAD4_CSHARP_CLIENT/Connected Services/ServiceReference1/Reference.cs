@@ -16,45 +16,120 @@ namespace ServiceReference1
     public interface IServerHelloWorld
     {
         
+        [System.ServiceModel.OperationContractAttribute(Action="http://Server/IServerHelloWorld/DostanProduktyRequest", ReplyAction="http://Server/IServerHelloWorld/DostanProduktyResponse")]
+        [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
+        System.Threading.Tasks.Task<ServiceReference1.DostanProduktyResponse> DostanProduktyAsync(ServiceReference1.DostanProduktyRequest request);
+        
         [System.ServiceModel.OperationContractAttribute(Action="http://Server/IServerHelloWorld/getHelloWorldAsStringRequest", ReplyAction="http://Server/IServerHelloWorld/getHelloWorldAsStringResponse")]
+        [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
         System.Threading.Tasks.Task<ServiceReference1.getHelloWorldAsStringResponse> getHelloWorldAsStringAsync(ServiceReference1.getHelloWorldAsStringRequest request);
+    }
+    
+    /// <remarks/>
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://Server/")]
+    public partial class product
+    {
+        
+        private string nazwaField;
+        
+        private string opisField;
+        
+        private int cenaField;
+        
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute(Form=System.Xml.Schema.XmlSchemaForm.Unqualified, Order=0)]
+        public string nazwa
+        {
+            get
+            {
+                return this.nazwaField;
+            }
+            set
+            {
+                this.nazwaField = value;
+            }
+        }
+        
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute(Form=System.Xml.Schema.XmlSchemaForm.Unqualified, Order=1)]
+        public string opis
+        {
+            get
+            {
+                return this.opisField;
+            }
+            set
+            {
+                this.opisField = value;
+            }
+        }
+        
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute(Form=System.Xml.Schema.XmlSchemaForm.Unqualified, Order=2)]
+        public int cena
+        {
+            get
+            {
+                return this.cenaField;
+            }
+            set
+            {
+                this.cenaField = value;
+            }
+        }
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    [System.ServiceModel.MessageContractAttribute(WrapperName="DostanProdukty", WrapperNamespace="http://Server/", IsWrapped=true)]
+    public partial class DostanProduktyRequest
+    {
+        
+        public DostanProduktyRequest()
+        {
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(WrapperName="DostanProduktyResponse", WrapperNamespace="http://Server/", IsWrapped=true)]
+    public partial class DostanProduktyResponse
+    {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://Server/", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute("return", Form=System.Xml.Schema.XmlSchemaForm.Unqualified)]
+        public ServiceReference1.product[] @return;
+        
+        public DostanProduktyResponse()
+        {
+        }
+        
+        public DostanProduktyResponse(ServiceReference1.product[] @return)
+        {
+            this.@return = @return;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(WrapperName="getHelloWorldAsString", WrapperNamespace="http://Server/", IsWrapped=true)]
     public partial class getHelloWorldAsStringRequest
     {
         
-        [System.ServiceModel.MessageBodyMemberAttribute(Name="getHelloWorldAsString", Namespace="http://Server/", Order=0)]
-        public ServiceReference1.getHelloWorldAsStringRequestBody Body;
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://Server/", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute(Form=System.Xml.Schema.XmlSchemaForm.Unqualified)]
+        public string arg0;
         
         public getHelloWorldAsStringRequest()
         {
         }
         
-        public getHelloWorldAsStringRequest(ServiceReference1.getHelloWorldAsStringRequestBody Body)
-        {
-            this.Body = Body;
-        }
-    }
-    
-    [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
-    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.Runtime.Serialization.DataContractAttribute(Namespace="")]
-    public partial class getHelloWorldAsStringRequestBody
-    {
-        
-        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
-        public string arg0;
-        
-        public getHelloWorldAsStringRequestBody()
-        {
-        }
-        
-        public getHelloWorldAsStringRequestBody(string arg0)
+        public getHelloWorldAsStringRequest(string arg0)
         {
             this.arg0 = arg0;
         }
@@ -63,38 +138,19 @@ namespace ServiceReference1
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    [System.ServiceModel.MessageContractAttribute(WrapperName="getHelloWorldAsStringResponse", WrapperNamespace="http://Server/", IsWrapped=true)]
     public partial class getHelloWorldAsStringResponse
     {
         
-        [System.ServiceModel.MessageBodyMemberAttribute(Name="getHelloWorldAsStringResponse", Namespace="http://Server/", Order=0)]
-        public ServiceReference1.getHelloWorldAsStringResponseBody Body;
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://Server/", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute(Form=System.Xml.Schema.XmlSchemaForm.Unqualified)]
+        public string @return;
         
         public getHelloWorldAsStringResponse()
         {
         }
         
-        public getHelloWorldAsStringResponse(ServiceReference1.getHelloWorldAsStringResponseBody Body)
-        {
-            this.Body = Body;
-        }
-    }
-    
-    [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
-    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.Runtime.Serialization.DataContractAttribute(Namespace="")]
-    public partial class getHelloWorldAsStringResponseBody
-    {
-        
-        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
-        public string @return;
-        
-        public getHelloWorldAsStringResponseBody()
-        {
-        }
-        
-        public getHelloWorldAsStringResponseBody(string @return)
+        public getHelloWorldAsStringResponse(string @return)
         {
             this.@return = @return;
         }
@@ -151,6 +207,18 @@ namespace ServiceReference1
         }
         
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        System.Threading.Tasks.Task<ServiceReference1.DostanProduktyResponse> ServiceReference1.IServerHelloWorld.DostanProduktyAsync(ServiceReference1.DostanProduktyRequest request)
+        {
+            return base.Channel.DostanProduktyAsync(request);
+        }
+        
+        public System.Threading.Tasks.Task<ServiceReference1.DostanProduktyResponse> DostanProduktyAsync()
+        {
+            ServiceReference1.DostanProduktyRequest inValue = new ServiceReference1.DostanProduktyRequest();
+            return ((ServiceReference1.IServerHelloWorld)(this)).DostanProduktyAsync(inValue);
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
         System.Threading.Tasks.Task<ServiceReference1.getHelloWorldAsStringResponse> ServiceReference1.IServerHelloWorld.getHelloWorldAsStringAsync(ServiceReference1.getHelloWorldAsStringRequest request)
         {
             return base.Channel.getHelloWorldAsStringAsync(request);
@@ -159,8 +227,7 @@ namespace ServiceReference1
         public System.Threading.Tasks.Task<ServiceReference1.getHelloWorldAsStringResponse> getHelloWorldAsStringAsync(string arg0)
         {
             ServiceReference1.getHelloWorldAsStringRequest inValue = new ServiceReference1.getHelloWorldAsStringRequest();
-            inValue.Body = new ServiceReference1.getHelloWorldAsStringRequestBody();
-            inValue.Body.arg0 = arg0;
+            inValue.arg0 = arg0;
             return ((ServiceReference1.IServerHelloWorld)(this)).getHelloWorldAsStringAsync(inValue);
         }
         

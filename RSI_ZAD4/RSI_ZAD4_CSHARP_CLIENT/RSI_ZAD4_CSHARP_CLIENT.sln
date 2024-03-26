@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSI_ZAD4_CSHARP_CLIENT", "RSI_ZAD4_CSHARP_CLIENT.csproj", "{1ECE58FE-8EB8-4743-B634-A099181C9AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECE58FE-8EB8-4743-B634-A099181C9AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECE58FE-8EB8-4743-B634-A099181C9AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECE58FE-8EB8-4743-B634-A099181C9AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECE58FE-8EB8-4743-B634-A099181C9AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70FC22FD-B2EA-4E4F-888F-1C0D7E4044CE}
+	EndGlobalSection
+EndGlobal
