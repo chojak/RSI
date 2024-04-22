@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("RSI_ZAD4_CSHARP_CLIENT")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0843bf280ce5a65d5964211d2ef87b6c32d06790")]
 [assembly: System.Reflection.AssemblyProductAttribute("RSI_ZAD4_CSHARP_CLIENT")]
