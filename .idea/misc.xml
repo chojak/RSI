@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/RSI_ZAD4" />
+    <file type="web" url="file://$PROJECT_DIR$/RSI_ZAD6/Server" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+    <!-- Security constraint for resource only accessible to role -->
+    <security-constraint>
+        <display-name>WebServiceSecurity</display-name>
+
+        <web-resource-collection>
+            <web-resource-name>Authorized users only</web-resource-name>
+            <url-pattern>/HelloServletService</url-pattern>
+            <http-method>POST</http-method>
+        </web-resource-collection>
+
+        <auth-constraint>
+            <role-name>RSI_ZAD6</role-name>
+        </auth-constraint>
+
+    </security-constraint>
+
+    <!-- BASIC authorization -->
+    <login-config>
+        <auth-method>BASIC</auth-method>
+    </login-config>
+
+    <!-- Definition of role -->
+    <security-role>
+        <role-name>RSI_ZAD6</role-name>
+    </security-role>
+</web-app>
