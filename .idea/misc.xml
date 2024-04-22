@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/RSI_ZAD4" />
     <file type="web" url="file://$PROJECT_DIR$/RSI_ZAD6/Server" />
+    <file type="web" url="file://$PROJECT_DIR$/RSI_ZAD6/Server_Tomcat" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
