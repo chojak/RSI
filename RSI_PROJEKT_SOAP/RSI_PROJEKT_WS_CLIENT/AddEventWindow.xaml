@@ -1,0 +1,23 @@
+﻿<Window x:Class="RSI_PROJEKT_WS_CLIENT.AddEventWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RSI_PROJEKT_WS_CLIENT"
+        mc:Ignorable="d"
+        Title="AddEventWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Dodaj Białostocki Event!" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top" Height="97" Width="629" FontSize="50" HorizontalContentAlignment="Center"/>
+        <Button Click="Confirm_Button_Click" Content="Dodaj" Margin="239,349,457,33"/>
+        <Button Click="Cancel_Button_Click" Content="Anuluj" Margin="457,349,239,33"/>
+        <Label Content="Nazwa:" HorizontalAlignment="Left" Margin="43,102,0,0" VerticalAlignment="Top"/>
+        <Label Content="Typ:" HorizontalAlignment="Left" Margin="43,133,0,0" VerticalAlignment="Top"/>
+        <Label Content="Data:" HorizontalAlignment="Left" Margin="43,164,0,0" VerticalAlignment="Top"/>
+        <Label Content="Opis: " HorizontalAlignment="Left" Margin="43,195,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Event_Name_Textbox" HorizontalAlignment="Left" Margin="96,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="618"/>
+        <TextBox Name="Event_Type_Textbox" HorizontalAlignment="Left" Margin="96,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="618"/>
+        <TextBox Name="Event_Description_Textbox" HorizontalAlignment="Left" Margin="96,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="618" Height="145"/>
+        <DatePicker Name="Event_Date_Datepicker" HorizontalAlignment="Left" Margin="96,165,0,0" VerticalAlignment="Top" Width="618"/>
+
+    </Grid>
+</Window>
