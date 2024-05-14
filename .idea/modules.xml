@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RSI_ZAD6/Client/Client.iml" filepath="$PROJECT_DIR$/RSI_ZAD6/Client/Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RSI.iml" filepath="$PROJECT_DIR$/.idea/RSI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSI_PROJEKT_SOAP/RSI_PROJEKT_WS_SOAP/RSI_PROJEKT_WS_SOAP.iml" filepath="$PROJECT_DIR$/RSI_PROJEKT_SOAP/RSI_PROJEKT_WS_SOAP/RSI_PROJEKT_WS_SOAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/RSI_ZAD1/RSI_ZAD1.iml" filepath="$PROJECT_DIR$/RSI_ZAD1/RSI_ZAD1.iml" />
       <module fileurl="file://$PROJECT_DIR$/RSI_ZAD2/RSI_ZAD2.iml" filepath="$PROJECT_DIR$/RSI_ZAD2/RSI_ZAD2.iml" />
       <module fileurl="file://$PROJECT_DIR$/RSI_ZAD3/RSI_ZAD3.iml" filepath="$PROJECT_DIR$/RSI_ZAD3/RSI_ZAD3.iml" />

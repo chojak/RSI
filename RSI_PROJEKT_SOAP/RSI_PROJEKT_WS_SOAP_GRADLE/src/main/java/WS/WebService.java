@@ -11,8 +11,8 @@ import javax.jws.HandlerChain;
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
 import java.io.ByteArrayOutputStream;
+import java.text.SimpleDateFormat;
 import java.util.*;
-import java.util.stream.Collectors;
 
 @javax.jws.WebService
 @HandlerChain(file = "handler-chain.xml")
@@ -104,13 +104,14 @@ public class WebService {
         PdfWriter pdfWriter = new PdfWriter(outputStream);
         PdfDocument pdfDocument = new PdfDocument(pdfWriter);
         try (Document document = new Document(pdfDocument)) {
+            SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy");
             document.add(new Paragraph("Eventy Białostockie: "));
             for (int i = 0; i < events.size(); i++) {
                 Event currentEvent = events.get(i);
-                document.add(new Paragraph("Event nr: " + i));
+                document.add(new Paragraph("Event nr: " + (i + 1)));
                 document.add(new Paragraph("Nazwa: " + currentEvent.name));
                 document.add(new Paragraph("Typ: " + currentEvent.type));
-                document.add(new Paragraph("Data wydarzenia : " + currentEvent.date));
+                document.add(new Paragraph("Data wydarzenia : " + formatter.format(currentEvent.date)));
                 document.add(new Paragraph("Opis : " + currentEvent.description));
                 document.add(new Paragraph("---------------------------------------------------------------------------------------"));
             }
