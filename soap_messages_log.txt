@@ -1,0 +1,296 @@
+---------------------------------------------------
+Timestamp: 2024-05-20 00:05:14.322
+Direction: INBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:05:14.327
+Direction: OUTBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:06:19.996
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:06:20.329
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:06:52.788
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:06:52.797
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:06:56.496
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:06:56.505
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:07:09.433
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:07:09.443
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:07:54.587
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:07:54.931
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:07:59.174
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:07:59.184
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:04.102
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:04.384
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:25.039
+Direction: INBOUND
+Endpoint: getEventInformation
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:25.048
+Direction: OUTBOUND
+Endpoint: getEventInformation
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:31.492
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:31.501
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:33.292
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:09:33.302
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:16:46.293
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:16:46.303
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:17:51.280
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:17:51.290
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:17:55.251
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:17:55.258
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:19:51.040
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:19:51.049
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:20:30.224
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:20:30.232
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:22:16.143
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:22:16.434
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:19.325
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:19.582
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:21.301
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:21.309
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:22.381
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:22.389
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:23.193
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:23.201
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:24.167
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:24.175
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:24.843
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:24.851
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:25.429
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:25.437
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:25.997
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:26.005
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:26.958
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:26.966
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:27.725
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:25:27.734
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:31:56.363
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:31:56.647
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:32:42.256
+Direction: INBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:32:42.261
+Direction: OUTBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:33:00.521
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:33:00.531
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:36:03.079
+Direction: INBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:36:03.094
+Direction: OUTBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:36:16.497
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:36:16.791
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:36:24.336
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:36:24.346
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:46:30.727
+Direction: INBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:46:30.740
+Direction: OUTBOUND
+Endpoint: getAllEvents
+---------------------------------------------------
+Timestamp: 2024-05-20 00:47:03.662
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:47:03.932
+Direction: OUTBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:48:58.513
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:49:01.611
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:49:15.611
+Direction: INBOUND
+Endpoint: generatePDFReport
+---------------------------------------------------
+Timestamp: 2024-05-20 00:49:24.585
+Direction: OUTBOUND
+Endpoint: generatePDFReport

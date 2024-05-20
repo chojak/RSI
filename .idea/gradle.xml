@@ -13,6 +13,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RSI_PROJEKT_SOAP_TOMCAT" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/RSI_PROJEKT_SOAP_TOMCAT" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/RSI_ZAD4" />
         <option name="gradleHome" value="" />
         <option name="modules">

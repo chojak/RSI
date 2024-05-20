@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="org.example.SOAP_TOMCAT.main" target="1.8" />
+      <module name="org.example.SOAP_TOMCAT.test" target="1.8" />
+      <module name="RSI_PROJEKT_WS_SOAP_GRADLE" target="1.8" />
+      <module name="SOAP_TOMCAT" target="1.8" />
+      <module name="SOAP_TOMCAT.main" target="1.8" />
+      <module name="SOAP_TOMCAT.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

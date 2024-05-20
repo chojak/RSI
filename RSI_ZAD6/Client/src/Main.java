@@ -9,17 +9,13 @@ import java.util.Map;
 public class Main {
     public static void main(String[] args) {
 
-        System.setProperty("javax.net.ssl.trustStore", "RSI_ZAD6/Client/client_cacerts.jks");
-        System.setProperty("javax.net.ssl.trustStorePassword", "changeit");
-
         HelloServletService client = new HelloServletService();
         HelloServlet port = client.getHelloServletPort(new MTOMFeature());
 
         BindingProvider bindProv = (BindingProvider) port;
         Map<String, Object> context = bindProv.getRequestContext();
         context.put("javax.xml.ws.security.auth.username", "user");
-        context.put("javax.xml.ws.security.auth.password", "user123");
-        context.put(BindingProvider.ENDPOINT_ADDRESS_PROPERTY, "https://localhost:443//RSI_ZAD6//HelloServlet");
+//        context.put("javax.xml.ws.security.auth.password", "user123");
 
         byte[] bytes = port.downloadImage("pan_ninja.jpg");
 
