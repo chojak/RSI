@@ -1,7 +1,7 @@
 {
   "ExtendedData": {
     "inputs": [
-      "http://localhost:8888/ws/server?wsdl"
+      "https://localhost:8443/hello-servlet?wsdl"
     ],
     "collectionTypes": [
       "System.Collections.Generic.Dictionary`2",

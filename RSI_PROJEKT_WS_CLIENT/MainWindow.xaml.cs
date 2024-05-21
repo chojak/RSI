@@ -1,4 +1,4 @@
-﻿using ServiceReference2;
+﻿using ServiceReference1;
 using System.Net;
 using System.ServiceModel;
 using System.ServiceModel.Security;
@@ -22,13 +22,13 @@ namespace RSI_PROJEKT_WS_CLIENT
     public partial class MainWindow : Window
     {
         public List<@event> events;
-        public WebServiceClient service;
+        public ImageServiceClient service;
         public List<@event> displayedEvents;
         public MainWindow()
         {
             InitializeComponent();
 
-            service = new WebServiceClient();
+            service = new ImageServiceClient();
             service.ClientCredentials.ServiceCertificate.SslCertificateAuthentication =
                 new X509ServiceCertificateAuthentication()
                 {

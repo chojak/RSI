@@ -3726,11 +3726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_SOAP\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
+      "projectUniqueName": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
       "projectName": "RSI_PROJEKT_WS_CLIENT",
-      "projectPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_SOAP\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
+      "projectPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
       "packagesPath": "C:\\Users\\chojak\\.nuget\\packages\\",
-      "outputPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_SOAP\\RSI_PROJEKT_WS_CLIENT\\obj\\",
+      "outputPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

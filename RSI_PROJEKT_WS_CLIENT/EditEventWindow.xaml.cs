@@ -1,4 +1,4 @@
-﻿using ServiceReference2;
+﻿using ServiceReference1;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,8 +21,8 @@ namespace RSI_PROJEKT_WS_CLIENT
     public partial class EditEventWindow : Window
     {
         public List<@event> events;
-        public WebServiceClient service;
-        public EditEventWindow(List<@event> events, WebServiceClient service)
+        public ImageServiceClient service;
+        public EditEventWindow(List<@event> events, ImageServiceClient service)
         {
             InitializeComponent();
             this.events = events;

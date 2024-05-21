@@ -1,4 +1,4 @@
-﻿using ServiceReference2;
+﻿using ServiceReference1;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,8 +20,8 @@ namespace RSI_PROJEKT_WS_CLIENT
     /// </summary>
     public partial class AddEventWindow : Window
     {
-        public WebServiceClient service;
-        public AddEventWindow(WebServiceClient service)
+        public ImageServiceClient service;
+        public AddEventWindow(ImageServiceClient service)
         {
             InitializeComponent();
             this.service = service;

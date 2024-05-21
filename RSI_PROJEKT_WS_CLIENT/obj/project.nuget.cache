@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8wAVNw3tTyjen+ytiRWhmLUynwenaMjXVaHjsnZcVMeF1QDUE2jTgv/YfI37ZGCHfVl4+QaXLbT4+XZRG9Dfw==",
+  "dgSpecHash": "QVffxvCoidf72wWXPQR1QhWr1bM8DYEfAKco4mRoOGGoMRZWCB1GX+GYTCy19nrFnU8GLYoL4XuZh0qTKhlwFg==",
   "success": true,
-  "projectFilePath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_SOAP\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
+  "projectFilePath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chojak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\chojak\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\microsoft.extensions.apidescription.client.7.0.2.nupkg.sha512",

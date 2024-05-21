@@ -9,12 +9,12 @@
     <Grid>
         <ListBox Name="EventListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,26,325,0"/>
         <Label Content="Znalezione eventy: " HorizontalAlignment="Left" VerticalAlignment="Top" Width="400"/>
-        <DatePicker HorizontalAlignment="Left" Margin="697,16,0,0" VerticalAlignment="Top" Width="83" SelectedDateChanged="EventsForDayChanged"/>
+        <DatePicker HorizontalAlignment="Left" Margin="637,16,0,0" VerticalAlignment="Top" Width="143" SelectedDateChanged="EventsForDayChanged"/>
         <Label Content="Znajdź eventy na dzień:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Margin="480,14,0,0"/>
-        <DatePicker HorizontalAlignment="Left" Margin="697,41,0,0" VerticalAlignment="Top" Width="83" SelectedDateChanged="EventsForWeekChanged"/>
+        <DatePicker HorizontalAlignment="Left" Margin="637,41,0,0" VerticalAlignment="Top" Width="143" SelectedDateChanged="EventsForWeekChanged"/>
         <Label Content="Znajdź eventy na tydzień:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Margin="480,40,0,0"/>
         <Label Content="Informacje danego eventu:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="158" Margin="480,66,0,0"/>
-        <ComboBox HorizontalAlignment="Left" Margin="683,70,0,0" VerticalAlignment="Top" Width="97" SelectionChanged="ComboBox_SelectionChanged" Name="EventComboBox"/>
+        <ComboBox HorizontalAlignment="Left" Margin="637,70,0,0" VerticalAlignment="Top" Width="143" SelectionChanged="ComboBox_SelectionChanged" Name="EventComboBox"/>
         <Button Content="Dodaj event" HorizontalAlignment="Left" Margin="536,132,0,0" VerticalAlignment="Top" Width="202" Click="Button_Click_1"/>
         <Button Content="Modyfikuj event" HorizontalAlignment="Left" Margin="536,157,0,0" VerticalAlignment="Top" Width="202" Click="Button_Click_2"/>
         <Button Content="Generuj PDF" HorizontalAlignment="Left" Margin="536,182,0,0" VerticalAlignment="Top" Width="202" Click="Button_Click_3"/>

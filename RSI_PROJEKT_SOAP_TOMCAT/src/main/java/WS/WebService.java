@@ -87,7 +87,7 @@ public class WebService implements IWebService {
                                        String type,
                                        Date date,
                                        String description) {
-        Event event = events.get(eventId);
+        Event event = events.get(eventId - 1);
         if (event != null) {
             event.name = name;
             event.type = type;
