@@ -3720,23 +3720,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chojak\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LChojecki\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
+      "projectUniqueName": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
       "projectName": "RSI_PROJEKT_WS_CLIENT",
-      "projectPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
-      "packagesPath": "C:\\Users\\chojak\\.nuget\\packages\\",
-      "outputPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\obj\\",
+      "projectPath": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\RSI_PROJEKT_WS_CLIENT.csproj",
+      "packagesPath": "C:\\Users\\LChojecki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\chojak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LChojecki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3828,7 +3828,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

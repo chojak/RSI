@@ -52,15 +52,6 @@ namespace ServiceReference1
         System.Threading.Tasks.Task<ServiceReference1.generatePDFReportResponse> generatePDFReportAsync(ServiceReference1.generatePDFReportRequest request);
         
         // CODEGEN: Parameter 'return' requires additional schema information that cannot be captured using the parameter mode. The specific attribute is 'Microsoft.Xml.Serialization.XmlElementAttribute'.
-        [System.ServiceModel.OperationContractAttribute(Action="http://WS/ImageService/getAllEventsRequest", ReplyAction="http://WS/ImageService/getAllEventsResponse")]
-        [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
-        [return: System.ServiceModel.MessageParameterAttribute(Name="return")]
-        ServiceReference1.getAllEventsResponse getAllEvents(ServiceReference1.getAllEventsRequest request);
-        
-        [System.ServiceModel.OperationContractAttribute(Action="http://WS/ImageService/getAllEventsRequest", ReplyAction="http://WS/ImageService/getAllEventsResponse")]
-        System.Threading.Tasks.Task<ServiceReference1.getAllEventsResponse> getAllEventsAsync(ServiceReference1.getAllEventsRequest request);
-        
-        // CODEGEN: Parameter 'return' requires additional schema information that cannot be captured using the parameter mode. The specific attribute is 'Microsoft.Xml.Serialization.XmlElementAttribute'.
         [System.ServiceModel.OperationContractAttribute(Action="http://WS/ImageService/getEventsForDayRequest", ReplyAction="http://WS/ImageService/getEventsForDayResponse")]
         [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
         [return: System.ServiceModel.MessageParameterAttribute(Name="return")]
@@ -77,6 +68,15 @@ namespace ServiceReference1
         
         [System.ServiceModel.OperationContractAttribute(Action="http://WS/ImageService/getEventsForWeekRequest", ReplyAction="http://WS/ImageService/getEventsForWeekResponse")]
         System.Threading.Tasks.Task<ServiceReference1.getEventsForWeekResponse> getEventsForWeekAsync(ServiceReference1.getEventsForWeekRequest request);
+        
+        // CODEGEN: Parameter 'return' requires additional schema information that cannot be captured using the parameter mode. The specific attribute is 'Microsoft.Xml.Serialization.XmlElementAttribute'.
+        [System.ServiceModel.OperationContractAttribute(Action="http://WS/ImageService/getAllEventsRequest", ReplyAction="http://WS/ImageService/getAllEventsResponse")]
+        [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
+        [return: System.ServiceModel.MessageParameterAttribute(Name="return")]
+        ServiceReference1.getAllEventsResponse getAllEvents(ServiceReference1.getAllEventsRequest request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://WS/ImageService/getAllEventsRequest", ReplyAction="http://WS/ImageService/getAllEventsResponse")]
+        System.Threading.Tasks.Task<ServiceReference1.getAllEventsResponse> getAllEventsAsync(ServiceReference1.getAllEventsRequest request);
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
@@ -380,39 +380,6 @@ namespace ServiceReference1
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.ServiceModel.MessageContractAttribute(WrapperName="getAllEvents", WrapperNamespace="http://WS/", IsWrapped=true)]
-    public partial class getAllEventsRequest
-    {
-        
-        public getAllEventsRequest()
-        {
-        }
-    }
-    
-    [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
-    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.ServiceModel.MessageContractAttribute(WrapperName="getAllEventsResponse", WrapperNamespace="http://WS/", IsWrapped=true)]
-    public partial class getAllEventsResponse
-    {
-        
-        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://WS/", Order=0)]
-        [System.Xml.Serialization.XmlElementAttribute("return", Form=System.Xml.Schema.XmlSchemaForm.Unqualified)]
-        public ServiceReference1.@event[] @return;
-        
-        public getAllEventsResponse()
-        {
-        }
-        
-        public getAllEventsResponse(ServiceReference1.@event[] @return)
-        {
-            this.@return = @return;
-        }
-    }
-    
-    [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
-    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
     [System.ServiceModel.MessageContractAttribute(WrapperName="getEventsForDay", WrapperNamespace="http://WS/", IsWrapped=true)]
     public partial class getEventsForDayRequest
     {
@@ -489,6 +456,39 @@ namespace ServiceReference1
         }
         
         public getEventsForWeekResponse(ServiceReference1.@event[] @return)
+        {
+            this.@return = @return;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(WrapperName="getAllEvents", WrapperNamespace="http://WS/", IsWrapped=true)]
+    public partial class getAllEventsRequest
+    {
+        
+        public getAllEventsRequest()
+        {
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(WrapperName="getAllEventsResponse", WrapperNamespace="http://WS/", IsWrapped=true)]
+    public partial class getAllEventsResponse
+    {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://WS/", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute("return", Form=System.Xml.Schema.XmlSchemaForm.Unqualified)]
+        public ServiceReference1.@event[] @return;
+        
+        public getAllEventsResponse()
+        {
+        }
+        
+        public getAllEventsResponse(ServiceReference1.@event[] @return)
         {
             this.@return = @return;
         }
@@ -666,31 +666,6 @@ namespace ServiceReference1
         }
         
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-        ServiceReference1.getAllEventsResponse ServiceReference1.ImageService.getAllEvents(ServiceReference1.getAllEventsRequest request)
-        {
-            return base.Channel.getAllEvents(request);
-        }
-        
-        public ServiceReference1.@event[] getAllEvents()
-        {
-            ServiceReference1.getAllEventsRequest inValue = new ServiceReference1.getAllEventsRequest();
-            ServiceReference1.getAllEventsResponse retVal = ((ServiceReference1.ImageService)(this)).getAllEvents(inValue);
-            return retVal.@return;
-        }
-        
-        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-        System.Threading.Tasks.Task<ServiceReference1.getAllEventsResponse> ServiceReference1.ImageService.getAllEventsAsync(ServiceReference1.getAllEventsRequest request)
-        {
-            return base.Channel.getAllEventsAsync(request);
-        }
-        
-        public System.Threading.Tasks.Task<ServiceReference1.getAllEventsResponse> getAllEventsAsync()
-        {
-            ServiceReference1.getAllEventsRequest inValue = new ServiceReference1.getAllEventsRequest();
-            return ((ServiceReference1.ImageService)(this)).getAllEventsAsync(inValue);
-        }
-        
-        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
         ServiceReference1.getEventsForDayResponse ServiceReference1.ImageService.getEventsForDay(ServiceReference1.getEventsForDayRequest request)
         {
             return base.Channel.getEventsForDay(request);
@@ -744,6 +719,31 @@ namespace ServiceReference1
             return ((ServiceReference1.ImageService)(this)).getEventsForWeekAsync(inValue);
         }
         
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        ServiceReference1.getAllEventsResponse ServiceReference1.ImageService.getAllEvents(ServiceReference1.getAllEventsRequest request)
+        {
+            return base.Channel.getAllEvents(request);
+        }
+        
+        public ServiceReference1.@event[] getAllEvents()
+        {
+            ServiceReference1.getAllEventsRequest inValue = new ServiceReference1.getAllEventsRequest();
+            ServiceReference1.getAllEventsResponse retVal = ((ServiceReference1.ImageService)(this)).getAllEvents(inValue);
+            return retVal.@return;
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        System.Threading.Tasks.Task<ServiceReference1.getAllEventsResponse> ServiceReference1.ImageService.getAllEventsAsync(ServiceReference1.getAllEventsRequest request)
+        {
+            return base.Channel.getAllEventsAsync(request);
+        }
+        
+        public System.Threading.Tasks.Task<ServiceReference1.getAllEventsResponse> getAllEventsAsync()
+        {
+            ServiceReference1.getAllEventsRequest inValue = new ServiceReference1.getAllEventsRequest();
+            return ((ServiceReference1.ImageService)(this)).getAllEventsAsync(inValue);
+        }
+        
         public virtual System.Threading.Tasks.Task OpenAsync()
         {
             return System.Threading.Tasks.Task.Factory.FromAsync(((System.ServiceModel.ICommunicationObject)(this)).BeginOpen(null, null), new System.Action<System.IAsyncResult>(((System.ServiceModel.ICommunicationObject)(this)).EndOpen));
@@ -769,7 +769,7 @@ namespace ServiceReference1
         {
             if ((endpointConfiguration == EndpointConfiguration.WebServicePort))
             {
-                return new System.ServiceModel.EndpointAddress("https://localhost:8443/hello-servlet");
+                return new System.ServiceModel.EndpointAddress("https://26.28.182.188:8443/hello-servlet");
             }
             throw new System.InvalidOperationException(string.Format("Could not find endpoint with name \'{0}\'.", endpointConfiguration));
         }

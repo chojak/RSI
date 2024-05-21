@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RSI_ZAD9.props" />
+</Project>

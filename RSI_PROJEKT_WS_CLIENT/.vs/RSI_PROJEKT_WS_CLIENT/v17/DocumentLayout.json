@@ -1,40 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\",
+  "WorkspaceRootPath": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_projekt_ws_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_projekt_ws_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\addeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_projekt_ws_client\\addeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:addeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_projekt_ws_client\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\editeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_projekt_ws_client\\editeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:editeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chojak\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\editeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_projekt_ws_client\\editeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:editeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_projekt_ws_client\\addeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_projekt_ws_client\\addeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C9E76887-060F-48CC-AC0F-3A111C774372}|RSI_PROJEKT_WS_CLIENT.csproj|solutionrelative:addeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -45,48 +41,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Reference.cs",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\Connected Services\\ServiceReference1\\Reference.cs",
-              "RelativeDocumentMoniker": "Connected Services\\ServiceReference1\\Reference.cs",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\Connected Services\\ServiceReference1\\Reference.cs",
-              "RelativeToolTip": "Connected Services\\ServiceReference1\\Reference.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T01:44:01.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\AssemblyInfo.cs",
               "RelativeToolTip": "AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,10 +93,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\chojak\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\chojak\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "ToolTip": "C:\\Users\\chojak\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\chojak\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
               "ViewState": "AQIAAKQBAAAAAAAAAAAvwLUBAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T21:56:48.085Z",
@@ -105,86 +106,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "EditEventWindow.xaml.cs",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml.cs",
               "RelativeDocumentMoniker": "EditEventWindow.xaml.cs",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml.cs",
               "RelativeToolTip": "EditEventWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:50:55.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T02:50:55.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "EditEventWindow.xaml",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml",
               "RelativeDocumentMoniker": "EditEventWindow.xaml",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\EditEventWindow.xaml",
               "RelativeToolTip": "EditEventWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-14T02:50:51.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AddEventWindow.xaml.cs",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml.cs",
               "RelativeDocumentMoniker": "AddEventWindow.xaml.cs",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml.cs",
               "RelativeToolTip": "AddEventWindow.xaml.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:08:13.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T02:08:13.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AddEventWindow.xaml",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml",
               "RelativeDocumentMoniker": "AddEventWindow.xaml",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\AddEventWindow.xaml",
               "RelativeToolTip": "AddEventWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-14T00:29:19.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml*",
-              "RelativeToolTip": "MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-13T22:13:48.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_PROJEKT_WS_CLIENT\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T22:13:41.787Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 425,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
