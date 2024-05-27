@@ -4,28 +4,26 @@ using System.Xml.Serialization;
 
 namespace RSI_ZAD9.Models
 {
-	[DataContractAttribute]
 	public class Message
 	{
-		[DataMemberAttribute]
-		[JsonInclude]
-		public long id;
-		[DataMemberAttribute]
-		[JsonInclude]
-		public string message;
-		[DataMemberAttribute]
-		[JsonInclude]
-		public DateTime created;
-		[DataMemberAttribute]
-		[JsonInclude]
-		public string author;
-
-		public Message(long id, string message, string author)
+		public int id { get; set; }
+		public string message {get;set;}
+		public DateTime created {get;set;}
+		public string author {get;set;}
+		public Message() { }
+		public Message(int id, string message, string author)
 		{
 			this.id = id;
 			this.message = message;
 			this.created = new DateTime();
 			this.author = author;
-		}	
-	}
+		}
+        public Message(int id, string message, DateTime created, string author)
+        {
+            this.id = id;
+            this.message = message;
+            this.created = created;
+            this.author = author;
+        }
+    }
 }

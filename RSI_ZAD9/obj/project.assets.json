@@ -428,23 +428,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LChojecki\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\chojak\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD9\\RSI_ZAD9.csproj",
+      "projectUniqueName": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\RSI_ZAD9.csproj",
       "projectName": "RSI_ZAD9",
-      "projectPath": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD9\\RSI_ZAD9.csproj",
-      "packagesPath": "C:\\Users\\LChojecki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD9\\obj\\",
+      "projectPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\RSI_ZAD9.csproj",
+      "packagesPath": "C:\\Users\\chojak\\.nuget\\packages\\",
+      "outputPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LChojecki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chojak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -500,7 +500,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
