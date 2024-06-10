@@ -21,6 +21,7 @@ namespace RSI_ZAD9.Services
         }
         public static Message CreateMessage([FromBody] Message message)
         {
+            message.id = messages.Last().id + 1;
             messages.Add(message);
             return messages.Find(x => x.Equals(message));
         }
@@ -36,7 +37,7 @@ namespace RSI_ZAD9.Services
         {
             if (messages.Find(x => x.id == id) != null)
             {
-                messages.RemoveAt(id);
+                messages.Remove(messages.FirstOrDefault(x => x.id == id));
                 return true;
             }
             return false;

@@ -1,0 +1,179 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RSI_ZAD11/1.0.0": {
+        "dependencies": {
+          "Microsoft.Kiota.Abstractions": "1.9.5",
+          "Microsoft.Kiota.Http.HttpClientLibrary": "1.4.3",
+          "Microsoft.Kiota.Serialization.Form": "1.2.4",
+          "Microsoft.Kiota.Serialization.Json": "1.3.3",
+          "Microsoft.Kiota.Serialization.Multipart": "1.1.5",
+          "Microsoft.Kiota.Serialization.Text": "1.2.2",
+          "NSwag.MSBuild": "14.0.7",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "RSI_ZAD11.dll": {}
+        }
+      },
+      "Microsoft.Kiota.Abstractions/1.9.5": {
+        "dependencies": {
+          "Std.UriTemplate": "0.0.57"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Kiota.Abstractions.dll": {
+            "assemblyVersion": "1.9.5.0",
+            "fileVersion": "1.9.5.0"
+          }
+        }
+      },
+      "Microsoft.Kiota.Http.HttpClientLibrary/1.4.3": {
+        "dependencies": {
+          "Microsoft.Kiota.Abstractions": "1.9.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Kiota.Http.HttpClientLibrary.dll": {
+            "assemblyVersion": "1.4.3.0",
+            "fileVersion": "1.4.3.0"
+          }
+        }
+      },
+      "Microsoft.Kiota.Serialization.Form/1.2.4": {
+        "dependencies": {
+          "Microsoft.Kiota.Abstractions": "1.9.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Kiota.Serialization.Form.dll": {
+            "assemblyVersion": "1.2.4.0",
+            "fileVersion": "1.2.4.0"
+          }
+        }
+      },
+      "Microsoft.Kiota.Serialization.Json/1.3.3": {
+        "dependencies": {
+          "Microsoft.Kiota.Abstractions": "1.9.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Kiota.Serialization.Json.dll": {
+            "assemblyVersion": "1.3.3.0",
+            "fileVersion": "1.3.3.0"
+          }
+        }
+      },
+      "Microsoft.Kiota.Serialization.Multipart/1.1.5": {
+        "dependencies": {
+          "Microsoft.Kiota.Abstractions": "1.9.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Kiota.Serialization.Multipart.dll": {
+            "assemblyVersion": "1.1.5.0",
+            "fileVersion": "1.1.5.0"
+          }
+        }
+      },
+      "Microsoft.Kiota.Serialization.Text/1.2.2": {
+        "dependencies": {
+          "Microsoft.Kiota.Abstractions": "1.9.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Kiota.Serialization.Text.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "NSwag.MSBuild/14.0.7": {},
+      "Std.UriTemplate/0.0.57": {
+        "runtime": {
+          "lib/net5.0/Std.UriTemplate.dll": {
+            "assemblyVersion": "0.0.57.0",
+            "fileVersion": "0.0.57.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSI_ZAD11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kiota.Abstractions/1.9.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4ZODKjYLiSiboU2pGuWqcAznOA8LzMbVLjIshvmC6DcHHqJrAniWGbdBErYSTSmkrrS9ij6fZmZDtJncR0W7Rw==",
+      "path": "microsoft.kiota.abstractions/1.9.5",
+      "hashPath": "microsoft.kiota.abstractions.1.9.5.nupkg.sha512"
+    },
+    "Microsoft.Kiota.Http.HttpClientLibrary/1.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-axLzUosoRzLoC67RDuzzjSyGaY9Daw7TrCKOmXRosbWSa/Vy7bm1m5OI+pmPcL95EyCq1S9Y2Pmdl/qJQL1SRA==",
+      "path": "microsoft.kiota.http.httpclientlibrary/1.4.3",
+      "hashPath": "microsoft.kiota.http.httpclientlibrary.1.4.3.nupkg.sha512"
+    },
+    "Microsoft.Kiota.Serialization.Form/1.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nYgy/DLpLERVMW7ganslcj0MkLG5o1qwDX5X0fFHimKx8Kf+Xrau56j0nGvSx7ZkRQv5U61NL+LN7ZLytFwaQw==",
+      "path": "microsoft.kiota.serialization.form/1.2.4",
+      "hashPath": "microsoft.kiota.serialization.form.1.2.4.nupkg.sha512"
+    },
+    "Microsoft.Kiota.Serialization.Json/1.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yO0QxjNdQH77Lk6jNxPWdSj48g03lZ1QCeXy83kKpEEh+ECuZDRecTiFBdtiHMDKJK+h+nYZ8tkNcKstSOnvpA==",
+      "path": "microsoft.kiota.serialization.json/1.3.3",
+      "hashPath": "microsoft.kiota.serialization.json.1.3.3.nupkg.sha512"
+    },
+    "Microsoft.Kiota.Serialization.Multipart/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oe2f6v3z/NemTlGvge6fJIftsx9bHQoAP2XGnp1z7MkDgMO8KRqJh5a1wSIyZZE5QMZedLlevT6zfsPiqNWEtg==",
+      "path": "microsoft.kiota.serialization.multipart/1.1.5",
+      "hashPath": "microsoft.kiota.serialization.multipart.1.1.5.nupkg.sha512"
+    },
+    "Microsoft.Kiota.Serialization.Text/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XJG0IpnfxaV2QxEslvDtPa1oPfeJ7H/s9O1EDA7Ox1CTvfUQwLQA60Sj0YsF3V6TzNAvXrjgriOlWc5zIMiebA==",
+      "path": "microsoft.kiota.serialization.text/1.2.2",
+      "hashPath": "microsoft.kiota.serialization.text.1.2.2.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "NSwag.MSBuild/14.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KsMOTIaU9g7BY0WYIcfeqX599Jc5is8RnOfVxspl/pSiZ0eYo4DTnIu/bcg8m1W05TlykERZNYLU8OFW3/Q7Jg==",
+      "path": "nswag.msbuild/14.0.7",
+      "hashPath": "nswag.msbuild.14.0.7.nupkg.sha512"
+    },
+    "Std.UriTemplate/0.0.57": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9pKu3V7jhHmZkZNktbBqnCPbZgFpmAjyXyuKRHhnLsXoYTVs0LOcPW9D13nOpwP0DFjvi7hdLC5uMtYX+/yj/Q==",
+      "path": "std.uritemplate/0.0.57",
+      "hashPath": "std.uritemplate.0.0.57.nupkg.sha512"
+    }
+  }
+}

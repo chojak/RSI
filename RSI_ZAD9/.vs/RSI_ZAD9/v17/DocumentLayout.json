@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad9\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad9\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad9\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAE4E73D-A93E-423B-AFE3-777965D1DF6B}|RSI_ZAD9.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,14 +60,14 @@
               "RelativeDocumentMoniker": "Services\\MessageService.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\Services\\MessageService.cs",
               "RelativeToolTip": "Services\\MessageService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIA3wBIAAAAJAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T00:06:10.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
@@ -79,15 +79,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Message.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Models\\Message.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\Models\\Message.cs",
               "RelativeToolTip": "Models\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBgAAAAiAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T20:57:29.484Z"
+              "WhenOpened": "2024-05-21T20:57:29.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,7 +98,7 @@
               "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD9\\Controllers\\MessagesController.cs",
               "RelativeToolTip": "Controllers\\MessagesController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwB4AAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T20:55:46.355Z",
               "EditorCaption": ""

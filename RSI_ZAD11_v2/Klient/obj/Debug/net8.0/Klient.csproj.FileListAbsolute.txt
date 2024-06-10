@@ -1,0 +1,15 @@
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\bin\Debug\net8.0\Klient.exe
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\bin\Debug\net8.0\Klient.deps.json
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\bin\Debug\net8.0\Klient.runtimeconfig.json
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\bin\Debug\net8.0\Klient.dll
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\bin\Debug\net8.0\Klient.pdb
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.GeneratedMSBuildEditorConfig.editorconfig
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.AssemblyInfoInputs.cache
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.AssemblyInfo.cs
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.csproj.CoreCompileInputs.cache
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.sourcelink.json
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.dll
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\refint\Klient.dll
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.pdb
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\Klient.genruntimeconfig.cache
+D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11_v2\Klient\obj\Debug\net8.0\ref\Klient.dll

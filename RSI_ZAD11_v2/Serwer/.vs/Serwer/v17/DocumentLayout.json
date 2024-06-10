@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11_v2\\Serwer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E896DD-AB17-4853-9985-62F5E6F0A510}|Serwer.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad11_v2\\serwer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E896DD-AB17-4853-9985-62F5E6F0A510}|Serwer.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E896DD-AB17-4853-9985-62F5E6F0A510}|Serwer.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad11_v2\\serwer\\models\\searchparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E896DD-AB17-4853-9985-62F5E6F0A510}|Serwer.csproj|solutionrelative:models\\searchparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E896DD-AB17-4853-9985-62F5E6F0A510}|Serwer.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad11_v2\\serwer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E896DD-AB17-4853-9985-62F5E6F0A510}|Serwer.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchParam.cs",
+              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11_v2\\Serwer\\Models\\SearchParam.cs",
+              "RelativeDocumentMoniker": "Models\\SearchParam.cs",
+              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11_v2\\Serwer\\Models\\SearchParam.cs",
+              "RelativeToolTip": "Models\\SearchParam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:28:11.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11_v2\\Serwer\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11_v2\\Serwer\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:16:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11_v2\\Serwer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11_v2\\Serwer\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:12:51.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 425,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
