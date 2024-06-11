@@ -1,0 +1,6 @@
+.vs/
+.idea/
+out/
+.gradle/
+bin/
+obj/
