@@ -15,3 +15,121 @@ out/
 bin/
 obj/
 >>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
+
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki logów
+*.log
+logs/
+*.log.*
+
+# Pliki tymczasowe i zrzuty pamięci
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.save
+*.backup
+
+# Pliki kompilacji
+*.class
+*.o
+*.so
+*.dll
+*.exe
+*.out
+*.pyc
+*.pyo
+*.pyd
+
+# Foldery kompilacji
+bin/
+obj/
+build/
+dist/
+target/
+out/
+
+# Pliki konfiguracyjne IDE
+.vscode/
+.idea/
+*.iml
+
+# Pliki zależności
+node_modules/
+vendor/
+bower_components/
+jspm_packages/
+
+# Pliki wirtualnych środowisk
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pliki baz danych
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# Pliki cache
+*.cache
+*.cask
+*.esproj
+*.tmproj
+*.tm_properties
+*.snap
+
+# Pliki testowe
+coverage/
+.nyc_output/
+*.cover
+*.coverage
+*.lcov
+.lcov/
+
+# Pliki dokumentacji
+*.docx
+*.pptx
+*.xlsx
+*.pdf
+
+# Pliki generowane przez systemy CI/CD
+.ci/
+.ci-cache/
+CI_CACHE/
+jenkins/
+jenkins_home/
+.circleci/
+
+# Pliki specyficzne dla systemów operacyjnych
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+__MACOSX/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.trash/
