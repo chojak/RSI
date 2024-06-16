@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RSI_ZAD11
+<<<<<<< HEAD
 build_property.ProjectDir = D:\chojak\Desktop\polibuda\RSI\RSI_ZAD11\
+=======
+build_property.ProjectDir = C:\Users\LChojecki\Pulpit\polikurnik\RSI\RSI_ZAD11\
+>>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

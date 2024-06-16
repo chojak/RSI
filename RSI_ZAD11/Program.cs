@@ -9,8 +9,17 @@ namespace RSI_ZAD11
         static HttpClient client = new HttpClient();
         static async Task Main(string[] args)
         {
-            string url = @"https://localhost:7243/messages/";
-            client = new HttpClient()
+            string url = @"https://26.28.182.188:7243/messages/";
+
+			var handler = new HttpClientHandler();
+			handler.ClientCertificateOptions = ClientCertificateOption.Manual;
+			handler.ServerCertificateCustomValidationCallback = 
+				(httpRequestMessage, cert, cetChain, policyErrors) =>
+				{
+					return true;
+				};
+		
+            client = new HttpClient(handler)
             {
                 BaseAddress = new Uri(url)
             };

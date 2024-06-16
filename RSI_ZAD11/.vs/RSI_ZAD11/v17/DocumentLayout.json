@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11\\",
   "Documents": [
     {
@@ -12,6 +13,20 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{E78CEAFD-6847-4215-A27A-D19FE90DEEC1}|RSI_ZAD11.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad11\\rsi_zad11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+=======
+  "WorkspaceRootPath": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E78CEAFD-6847-4215-A27A-D19FE90DEEC1}|RSI_ZAD11.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_zad11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78CEAFD-6847-4215-A27A-D19FE90DEEC1}|RSI_ZAD11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78CEAFD-6847-4215-A27A-D19FE90DEEC1}|RSI_ZAD11.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_zad11\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78CEAFD-6847-4215-A27A-D19FE90DEEC1}|RSI_ZAD11.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78CEAFD-6847-4215-A27A-D19FE90DEEC1}|RSI_ZAD11.csproj|c:\\users\\lchojecki\\pulpit\\polikurnik\\rsi\\rsi_zad11\\rsi_zad11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+>>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
       "RelativeMoniker": "D:0:0:{E78CEAFD-6847-4215-A27A-D19FE90DEEC1}|RSI_ZAD11.csproj|solutionrelative:rsi_zad11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -22,35 +37,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+=======
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+>>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Message.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11\\Message.cs",
               "RelativeDocumentMoniker": "Message.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11\\Message.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD11\\Message.cs",
+              "RelativeDocumentMoniker": "Message.cs",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD11\\Message.cs",
+>>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
               "RelativeToolTip": "Message.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAIwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +101,15 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RSI_ZAD11.csproj",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11\\RSI_ZAD11.csproj",
               "RelativeDocumentMoniker": "RSI_ZAD11.csproj",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11\\RSI_ZAD11.csproj",
+=======
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD11\\RSI_ZAD11.csproj",
+              "RelativeDocumentMoniker": "RSI_ZAD11.csproj",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD11\\RSI_ZAD11.csproj",
+>>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
               "RelativeToolTip": "RSI_ZAD11.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -72,24 +119,20 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD11\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LChojecki\\Pulpit\\polikurnik\\RSI\\RSI_ZAD11\\Program.cs",
+>>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAiwEUAAAA4AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T22:10:51.924Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 425,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

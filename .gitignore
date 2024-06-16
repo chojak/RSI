@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /RSI_ZAD7/nbproject/private/
 /RSI_ZAD7/build/
 /RSI_ZAD7_Client/nbproject/private/
@@ -6,3 +7,11 @@
 /RSI_ZAD7_Server/build/
 /RSI_ZAD7_Server/dist/
 /RSI_ZAD7_Client/dist/
+=======
+.vs/
+.idea/
+out/
+.gradle/
+bin/
+obj/
+>>>>>>> 3df86f1e5a6530ec7d40590c8197d24b4ccf34c0
