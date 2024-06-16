@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,20 @@
       "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\middleware\\basicauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:middleware\\basicauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\middleware\\myresponsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:middleware\\myresponsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\models\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +43,6 @@
       "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\middleware\\basicauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:middleware\\basicauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|d:\\chojak\\desktop\\polibuda\\rsi\\rsi_zad12\\rsi_zad12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2D5B54B4-168D-4CF1-9E3C-CE69984C874A}|RSI_ZAD12.csproj|solutionrelative:rsi_zad12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Properties\\launchSettings.json*",
+              "RelativeToolTip": "Properties\\launchSettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T07:21:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SecuredController.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Controllers\\SecuredController.cs",
               "RelativeDocumentMoniker": "Controllers\\SecuredController.cs",
@@ -82,38 +99,37 @@
               "RelativeToolTip": "Controllers\\SecuredController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:44:12.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T21:44:12.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "BasicAuthMiddleware.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Middleware\\BasicAuthMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\BasicAuthMiddleware.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Middleware\\BasicAuthMiddleware.cs",
               "RelativeToolTip": "Middleware\\BasicAuthMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T21:41:38.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MyResponseMiddleware.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Middleware\\MyResponseMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\MyResponseMiddleware.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Middleware\\MyResponseMiddleware.cs",
               "RelativeToolTip": "Middleware\\MyResponseMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T21:28:11.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IMessageService.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Services\\IServices\\IMessageService.cs",
               "RelativeDocumentMoniker": "Services\\IServices\\IMessageService.cs",
@@ -121,25 +137,23 @@
               "RelativeToolTip": "Services\\IServices\\IMessageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:04:09.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T21:04:09.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RSI_ZAD12",
+              "DocumentIndex": 10,
+              "Title": "RSI_ZAD12.csproj",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\RSI_ZAD12.csproj",
               "RelativeDocumentMoniker": "RSI_ZAD12.csproj",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\RSI_ZAD12.csproj",
               "RelativeToolTip": "RSI_ZAD12.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-10T21:03:35.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T21:03:35.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Link.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Models\\Link.cs",
               "RelativeDocumentMoniker": "Models\\Link.cs",
@@ -147,12 +161,11 @@
               "RelativeToolTip": "Models\\Link.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAxwAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:57:44.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T19:57:44.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Message.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Models\\Message.cs",
@@ -160,44 +173,43 @@
               "RelativeToolTip": "Models\\Message.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA6wAAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:57:23.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T19:57:23.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MessageService.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Services\\MessageService.cs",
               "RelativeDocumentMoniker": "Services\\MessageService.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Services\\MessageService.cs",
               "RelativeToolTip": "Services\\MessageService.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAiwGQAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T19:56:54.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MessagesController.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Controllers\\MessagesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Controllers\\MessagesController.cs",
               "RelativeToolTip": "Controllers\\MessagesController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwCQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T19:56:42.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\chojak\\Desktop\\polibuda\\RSI\\RSI_ZAD12\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAywBsAAABLAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBBwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T19:56:33.875Z",
               "EditorCaption": ""

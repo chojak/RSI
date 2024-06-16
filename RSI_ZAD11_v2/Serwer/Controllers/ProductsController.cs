@@ -23,7 +23,7 @@ namespace Serwer.Controllers
 
         [HttpGet]
         [Produces("application/xml", "application/json")]
-        public List<Product> GetAllProducts(SearchParam? searchParams)
+        public List<Product> GetAllProducts([FromBody]SearchParam? searchParams)
         {
             if (searchParams is null)
                 return Products;

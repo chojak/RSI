@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RSI_ZAD12")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1aff00714e48a594b29b53cc5d804ebd8e4b78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8edbb9932fd0b6611fdca7e06756226b4f12eba6")]
 [assembly: System.Reflection.AssemblyProductAttribute("RSI_ZAD12")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RSI_ZAD12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
